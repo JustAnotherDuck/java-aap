@@ -1,2 +1,2 @@
-# java-aap
+# java-app
 Java repository for AAP course
